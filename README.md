@@ -1,0 +1,2 @@
+# ShortStringsFilter
+ItogiAttestat
