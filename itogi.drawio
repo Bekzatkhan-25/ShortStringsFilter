@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-08-17T11:12:42.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="icLsbjrshcIoWtqNn287" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="gZXTjzCamH2ZuF35jDDV">
+    <mxGraphModel dx="1331" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-1" target="z-dlFFDpHn6ryvBZtDT5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-1" value="начало" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-4" target="z-dlFFDpHn6ryvBZtDT5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-4" value="ввод массива строк" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-5" target="z-dlFFDpHn6ryvBZtDT5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-5" value="инициализация нового массива filtered_array" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-7" target="z-dlFFDpHn6ryvBZtDT5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-7" target="z-dlFFDpHn6ryvBZtDT5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-7" value="для каждой строки в массиве:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-8" target="z-dlFFDpHn6ryvBZtDT5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-8" value="Если длина строки &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-9" target="z-dlFFDpHn6ryvBZtDT5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-9" value="добавить строку в filtered_array" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-dlFFDpHn6ryvBZtDT5-10" target="z-dlFFDpHn6ryvBZtDT5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-10" value="вывести filtered_array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dlFFDpHn6ryvBZtDT5-11" value="конец" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
